@@ -1,0 +1,15 @@
+[error]	2025-07-13 19:59:25.546549[Thread 0x00007f4c8aed7cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-13 19:59:25.551274[Thread 0x00007f4aedbfa6c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-07-13 19:59:25.551289[Thread 0x00007f4aedbfa6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/bedside_cover.3mf
+[error]	2025-07-13 19:59:25.551295[Thread 0x00007f4aedbfa6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Stake_Pocket_Cover.3mf
+[error]	2025-07-13 19:59:25.551299[Thread 0x00007f4aedbfa6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Side_Pocket_Cover_2.3mf
+[error]	2025-07-13 19:59:25.551455[Thread 0x00007f4abf7fd6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-07-13 19:59:25.551481[Thread 0x00007f4abebfa6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-07-13 19:59:25.551491[Thread 0x00007f4abdff76c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[warning]	2025-07-13 19:59:26.018936[Thread 0x00007f4c8aed7cc0]:07:59:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-13 19:59:26.020752[Thread 0x00007f4c8aed7cc0]:07:59:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-13 19:59:26.023006[Thread 0x00007f4c8aed7cc0]:07:59:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-13 19:59:26.050991[Thread 0x00007f4c8aed7cc0]:07:59:26 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-07-13 19:59:26.696735[Thread 0x00007f4c8aed7cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-13 19:59:26.713949[Thread 0x00007f4c8aed7cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-07-13 19:59:31.136401[Thread 0x00007f4c8aed7cc0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,96 @@
+// -*- mode: jsonc -*-
+{
+"layer": "top", // Waybar at top layer
+
+"position": "top", // Waybar position (top|bottom|left|right)
+
+"height": 32, // Waybar height (to be removed for auto height)
+// "width": 1280, // Waybar width
+
+"spacing": 4, // Gaps between modules (4px)
+
+// Choose the order of the modules
+"modules-left": [
+	"custom/system",
+	"clock"
+],
+
+//hyprland/window
+"modules-center": [
+  "hyprland/workspaces"
+],
+
+"modules-right": [
+  "pulseaudio",
+  "network",
+  "custom/system_stats",
+  "custom/bluetooth",
+  "tray"
+],
+
+// Modules configuration
+"tray": {
+  "icon-size": 21,
+  "spacing": 10
+},
+
+"custom/system": {
+  "format": "{icon}",
+  "exec-on-event": true,
+  "on-click": "ghostty -e --hold 'fastfetch'",
+  "tooltip-format": "About This System"
+},
+   
+"clock": {
+  "format": "{:%H:%M}",
+  "tooltip-format": "{:%a %d}"
+},
+
+"hyprland/workspaces": {
+  "format": "{icon}",
+  "format-icons": {    
+    "active": "",
+    "default": "",
+    "empty": ""
+  },
+  "persistent-workspaces": {
+    "*": [1, 2, 3, 4, 5]
+  }
+},
+
+"pulseaudio": {
+  "format": "{icon}",
+  "format-muted": " ",
+  //"format-source": "{volume}% ",
+  //"format-source-muted": "",
+  "format-icons": {
+  "default": ["", "", ""]
+  }
+},
+
+"network": {
+  // "interface": "wlp2*", // (Optional) To force the use of this interface
+  "format-wifi": "",
+  "format-ethernet": "{ipaddr}/{cidr} ",
+  "tooltip-format": "{essid} ({signalStrength}%)",
+  "format-linked": "{ifname} (No IP) ",
+  "format-disconnected": "Disconnected ⚠",
+  "format-alt": "{ifname} via {gwaddr} "
+},
+
+"custom/system_stats": {
+  "format": "{icon}",
+  "exec-on-event": true,
+  "on-click": "ghostty -e btop",
+  "tooltip-format": "System Performance",
+  "format-icons": ""
+},
+
+"custom/bluetooth": {
+  "format": "{icon}",
+  "exec-on-event": true,
+  "on-click": "ghostty -e bluetui",
+  "tooltip-format": "Bluetooth Settings",
+  "format-icons": ""
+}
+}

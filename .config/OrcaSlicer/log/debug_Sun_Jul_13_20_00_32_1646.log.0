@@ -1,0 +1,8 @@
+[error]	2025-07-13 20:00:34.449535[Thread 0x00007fe6e17f9cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-13 20:00:34.453530[Thread 0x00007fe614bff6c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-07-13 20:00:34.453545[Thread 0x00007fe614bff6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/bedside_cover.3mf
+[error]	2025-07-13 20:00:34.453564[Thread 0x00007fe614bff6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Stake_Pocket_Cover.3mf
+[error]	2025-07-13 20:00:34.453569[Thread 0x00007fe614bff6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Side_Pocket_Cover_2.3mf
+[error]	2025-07-13 20:00:34.453598[Thread 0x00007fe6147fe6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-07-13 20:00:34.453610[Thread 0x00007fe6147fe6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-07-13 20:00:34.453692[Thread 0x00007fe6147fe6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf

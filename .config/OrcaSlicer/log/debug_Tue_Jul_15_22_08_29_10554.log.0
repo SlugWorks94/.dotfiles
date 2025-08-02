@@ -1,0 +1,22 @@
+[error]	2025-07-15 22:08:30.828761[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 22:08:30.832634[Thread 0x00007fa0bd7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-07-15 22:08:30.832752[Thread 0x00007fa0bd7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-07-15 22:08:30.832759[Thread 0x00007fa0bd7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-07-15 22:08:30.832765[Thread 0x00007fa0bd7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-07-15 22:08:30.832769[Thread 0x00007fa0bd7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/bedside_cover.3mf
+[error]	2025-07-15 22:08:30.832774[Thread 0x00007fa0bd7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Stake_Pocket_Cover.3mf
+[error]	2025-07-15 22:08:30.832778[Thread 0x00007fa0bd7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Side_Pocket_Cover_2.3mf
+[warning]	2025-07-15 22:08:31.187017[Thread 0x00007fa1584fcd80]:10:08:31 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-15 22:08:31.198525[Thread 0x00007fa1584fcd80]:10:08:31 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-15 22:08:31.207553[Thread 0x00007fa1584fcd80]:10:08:31 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-15 22:08:31.227768[Thread 0x00007fa1584fcd80]:10:08:31 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-07-15 22:08:31.835782[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 22:08:31.852925[Thread 0x00007fa1584fcd80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-07-15 22:12:08.094670[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 22:12:08.170708[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 22:12:32.491826[Thread 0x00007fa1584fcd80]:10:12:32 PM: Error: Internal error when changing value for compatible_printers: boost::bad_any_cast: failed conversion using boost::any_cast
+[warning]	2025-07-15 22:12:32.498348[Thread 0x00007fa1584fcd80]:10:12:32 PM: Error: Internal error when changing value for compatible_printers: boost::bad_any_cast: failed conversion using boost::any_cast
+[error]	2025-07-15 22:20:49.447062[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 22:23:11.907343[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 22:23:17.504819[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 22:26:18.458053[Thread 0x00007fa1584fcd80]:calc_exclude_triangles:Unable to create exclude triangles

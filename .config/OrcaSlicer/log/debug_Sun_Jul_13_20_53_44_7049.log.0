@@ -1,0 +1,35 @@
+[error]	2025-07-13 20:53:45.694099[Thread 0x00007ff09cab6d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-13 20:53:45.697719[Thread 0x00007ff014bf86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-07-13 20:53:45.697728[Thread 0x00007ff014bf86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-07-13 20:53:45.697730[Thread 0x00007ff014bf86c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-07-13 20:53:45.697732[Thread 0x00007ff014bf86c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/bedside_cover.3mf
+[error]	2025-07-13 20:53:45.697734[Thread 0x00007ff014bf86c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Stake_Pocket_Cover.3mf
+[error]	2025-07-13 20:53:45.697735[Thread 0x00007ff014bf86c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/Bed_Side_Pocket_Cover_2.3mf
+[error]	2025-07-13 20:53:45.697831[Thread 0x00007ff014ff96c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[warning]	2025-07-13 20:53:46.060294[Thread 0x00007ff09cab6d80]:08:53:46 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-13 20:53:46.062355[Thread 0x00007ff09cab6d80]:08:53:46 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-13 20:53:46.063722[Thread 0x00007ff09cab6d80]:08:53:46 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-13 20:53:46.063968[Thread 0x00007ff09cab6d80]:08:53:46 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-07-13 20:53:46.658996[Thread 0x00007ff09cab6d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-13 20:53:46.676774[Thread 0x00007ff09cab6d80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-07-13 20:54:01.801091[Thread 0x00007ff09cab6d80]:OctoPrint: Error getting version: , HTTP 404, body: `<!DOCTYPE html>
+<html>
+<head>
+  <title>404 Not Found</title>
+</head>
+<body>
+  <center><h1>404 Not Found</h1></center>
+  <hr>
+</body>
+</html>`
+[error]	2025-07-13 20:54:07.308623[Thread 0x00007ff09cab6d80]:OctoPrint: Error getting version: , HTTP 404, body: `<!DOCTYPE html>
+<html>
+<head>
+  <title>404 Not Found</title>
+</head>
+<body>
+  <center><h1>404 Not Found</h1></center>
+  <hr>
+</body>
+</html>`
+[error]	2025-07-13 22:09:11.737333[Thread 0x00007ff09cab6d80]:calc_exclude_triangles:Unable to create exclude triangles

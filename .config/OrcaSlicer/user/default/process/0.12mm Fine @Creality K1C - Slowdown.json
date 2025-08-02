@@ -1,0 +1,21 @@
+{
+    "bottom_shell_thickness": "1",
+    "bottom_surface_pattern": "zig-zag",
+    "from": "User",
+    "gap_infill_speed": "150",
+    "inherits": "0.12mm Fine @Creality K1C",
+    "inner_wall_speed": "150",
+    "internal_solid_infill_pattern": "zig-zag",
+    "internal_solid_infill_speed": "150",
+    "is_custom_defined": "0",
+    "name": "0.12mm Fine @Creality K1C - Slowdown",
+    "outer_wall_speed": "100",
+    "print_settings_id": "0.12mm Fine @Creality K1C - Slowdown",
+    "sparse_infill_pattern": "zig-zag",
+    "sparse_infill_speed": "250",
+    "top_shell_thickness": "1",
+    "top_surface_pattern": "zig-zag",
+    "top_surface_speed": "100",
+    "version": "2.3.0.3",
+    "wall_loops": "4"
+}

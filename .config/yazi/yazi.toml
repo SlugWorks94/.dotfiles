@@ -1,0 +1,22 @@
+[mgr]
+show_hidden = true
+
+#[opener]
+#edit = [
+#  { run = 'freecad "$0"', orphan = true, desc = "freecad" },
+#  { run = 'blender "$0"', orphan = true, desc = "blender" },
+#  { run = 'orca-slicer "$0"', orphan = true, desc = "orca-slicer" },
+#]
+
+#[open]
+#rules = [
+#  { name = "*.step", use = "edit" },
+#  { name = "*.stl", use = "edit" },
+#  { name = "*.3mf", use = "edit" },
+#]
+
+[preview]
+wrap = "yes"
+max_width = 600
+max_height = 900
+image_quality = 85

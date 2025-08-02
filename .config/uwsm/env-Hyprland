@@ -1,0 +1,2 @@
+export HYPRLAND_TRACE=1
+export AQ_TRACE=1
