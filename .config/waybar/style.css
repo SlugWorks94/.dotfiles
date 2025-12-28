@@ -1,6 +1,6 @@
 * {
 /* `otf-font-awesome` is required to be installed for icons */
-  font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
+  font-family: FontAwesome, Noto, Roboto, sans-serif;
   font-size: 14px;
   padding: 0px;
   margin: 0px;
@@ -23,18 +23,15 @@ window#waybar.hidden {
 #workspaces,
 .modules-left,
 .modules-right { 
-  background-color: #1a1a1a;
   color: #b8b8b8;
   padding: 4px 10px;
   margin: 4px 16px;
-  border-radius: 10px;
-  opacity: 0.8;
-  border: none;
 }
 
 #workspaces button {
-  color: #5e5e5e;
-  margin: 5px 8px;
+  color: #fff;
+  padding: 0 7px;
+  font-size: 15px;
 }
 
 #workspaces button.active {
@@ -42,33 +39,33 @@ window#waybar.hidden {
 }
 
 #workspaces button.empty {
-  color: #000;
+  color: #5e5e5e;
 }
 
-#clock,
-#network,
+/* Modules Left */
+#custom-system,
+#clock {
+  padding: 0px 7px;
+}
+
+#clock {
+  font-family: JetBrainsMono;
+  font-weight: 400;
+}
+
+#custom-system {
+  font-size: 16px;
+}
+
+/* Modules Right */
 #pulseaudio,
-#tray,
-#window,
-#workspaces {
-  margin: 4px 4px;
-  color: #b8b8b8;
+#network,
+#custom-system_stats,
+#custom-bluetooth {
+  padding: 0px 7px;
+  font-size: 16px;
 }
 
 label:focus {
   background-color: #000000;
 }
-
-#tray {
-  background-color: #2980b9;
-}
-
-#tray > .passive {
-  -gtk-icon-effect: dim;
-}
-
-#tray > .needs-attention {
-  -gtk-icon-effect: highlight;
-	background-color: #eb4d4b;
-}
-

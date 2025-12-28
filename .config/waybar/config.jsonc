@@ -24,8 +24,7 @@
   "pulseaudio",
   "network",
   "custom/system_stats",
-  "custom/bluetooth",
-  "tray"
+  "custom/bluetooth"
 ],
 
 // Modules configuration
@@ -50,7 +49,7 @@
   "format": "{icon}",
   "format-icons": {    
     "active": "",
-    "default": "",
+    "default": "",
     "empty": ""
   },
   "persistent-workspaces": {
