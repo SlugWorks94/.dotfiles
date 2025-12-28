@@ -1,0 +1,54 @@
+[error]	2025-08-30 17:17:20.651325[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 17:17:20.655364[Thread 0x00007f12485ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-08-30 17:17:20.655378[Thread 0x00007f12485ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-08-30 17:17:20.655453[Thread 0x00007f125f316d80]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-08-30 17:17:20.655459[Thread 0x00007f125f316d80]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-08-30 17:17:20.655461[Thread 0x00007f125f316d80]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-08-30 17:17:20.655463[Thread 0x00007f125f316d80]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-08-30 17:17:20.655464[Thread 0x00007f125f316d80]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-08-30 17:17:20.655495[Thread 0x00007f11bf7fd6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-08-30 17:17:20.655507[Thread 0x00007f11bf7fd6c0]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[error]	2025-08-30 17:17:20.655506[Thread 0x00007f11bffff6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-08-30 17:17:20.655517[Thread 0x00007f11bffff6c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-08-30 17:17:20.655513[Thread 0x00007f11bf7fd6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[warning]	2025-08-30 17:17:21.000347[Thread 0x00007f125f316d80]:05:17:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-30 17:17:21.002825[Thread 0x00007f125f316d80]:05:17:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-30 17:17:21.021946[Thread 0x00007f125f316d80]:05:17:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-30 17:17:21.022153[Thread 0x00007f125f316d80]:05:17:21 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-30 17:17:21.623694[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-30 17:17:21.651147[Thread 0x00007f125f316d80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-08-30 17:17:27.270209[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 17:17:27.794396[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 17:17:28.075384[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 17:17:31.060736[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 17:28:22.399953[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-30 17:28:53.160412[Thread 0x00007f11bdbf66c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 17:28:53.216642[Thread 0x00007f11bdbf66c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 17:28:53.353551[Thread 0x00007f12485ff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-08-30 17:31:50.053277[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 17:31:50.591320[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 17:31:50.857846[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 17:31:59.882149[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 17:32:52.278542[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 17:32:52.299292[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 17:32:52.800377[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 17:32:52.846824[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 17:32:52.987790[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 17:32:56.682139[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-30 17:36:45.759786[Thread 0x00007f11bcbf26c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 17:36:45.825039[Thread 0x00007f11be3f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 17:36:45.935922[Thread 0x00007f11bcbf26c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 17:47:34.695610[Thread 0x00007f11be3f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 17:47:34.854657[Thread 0x00007f11d47f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 17:47:34.904482[Thread 0x00007f11be7f96c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-08-30 19:07:04.101322[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 19:07:04.611522[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 19:07:04.856552[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 19:07:07.307923[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 19:09:02.984285[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 19:09:03.604884[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 19:09:03.839831[Thread 0x00007f125f316d80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-08-30 19:09:05.624020[Thread 0x00007f11bfbfe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 19:09:05.629584[Thread 0x00007f11bf7fd6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-08-30 19:09:05.775777[Thread 0x00007f118bfff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-08-30 19:10:57.245973[Thread 0x00007f125f316d80]:calc_exclude_triangles:Unable to create exclude triangles

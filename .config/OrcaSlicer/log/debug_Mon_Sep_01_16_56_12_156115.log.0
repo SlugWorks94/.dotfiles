@@ -1,0 +1,39 @@
+[error]	2025-09-01 16:56:14.549067[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 16:56:14.553154[Thread 0x00007f92787ff6c0]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-09-01 16:56:14.553171[Thread 0x00007f92787ff6c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-09-01 16:56:14.553177[Thread 0x00007f92787ff6c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-09-01 16:56:14.553182[Thread 0x00007f92787ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-09-01 16:56:14.553186[Thread 0x00007f92787ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-09-01 16:56:14.553263[Thread 0x00007f9296727d80]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-09-01 16:56:14.553313[Thread 0x00007f92787ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-09-01 16:56:14.553318[Thread 0x00007f9296727d80]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-09-01 16:56:14.553320[Thread 0x00007f92787ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[error]	2025-09-01 16:56:14.553321[Thread 0x00007f9296727d80]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-09-01 16:56:14.553323[Thread 0x00007f9296727d80]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[warning]	2025-09-01 16:56:14.919261[Thread 0x00007f9296727d80]:04:56:14 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-01 16:56:14.922182[Thread 0x00007f9296727d80]:04:56:14 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-01 16:56:14.928949[Thread 0x00007f9296727d80]:04:56:14 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-01 16:56:14.962452[Thread 0x00007f9296727d80]:04:56:14 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-01 16:56:15.568720[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-01 16:56:15.592419[Thread 0x00007f9296727d80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-01 16:56:24.958402[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 16:56:25.544411[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 16:56:25.824681[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 16:56:30.302410[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:30:15.040085[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 17:30:15.557844[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 17:30:15.814029[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:30:19.171117[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:30:43.731068[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:30:44.506903[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:31:07.717829[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 17:31:07.722170[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:31:08.214793[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 17:31:08.264161[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:31:08.407118[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:35:28.417229[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:43:38.787483[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 17:43:39.320541[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 17:43:39.592817[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:43:41.974466[Thread 0x00007f9296727d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 17:45:04.076983[Thread 0x00007f9296727d80]:calc_exclude_triangles:Unable to create exclude triangles

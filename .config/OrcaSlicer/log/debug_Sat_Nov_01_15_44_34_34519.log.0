@@ -1,0 +1,24 @@
+[error]	2025-11-01 15:44:39.478206[Thread 0x00007f1e91dee6c0]:Unable to open connection to spacenavd
+[error]	2025-11-01 15:44:41.420152[Thread 0x00007f1f39fdcfc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-01 15:44:41.426357[Thread 0x00007f1e905eb6c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v007.3mf
+[error]	2025-11-01 15:44:41.426369[Thread 0x00007f1e905eb6c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-11-01 15:44:41.426366[Thread 0x00007f1e3e3fb6c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v012.3mf
+[error]	2025-11-01 15:44:41.426370[Thread 0x00007f1e447f86c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-11-01 15:44:41.426380[Thread 0x00007f1e3e3fb6c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v011.3mf
+[error]	2025-11-01 15:44:41.426381[Thread 0x00007f1e447f86c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-11-01 15:44:41.426386[Thread 0x00007f1e3e3fb6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-11-01 15:44:41.426388[Thread 0x00007f1e447f86c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-11-01 15:44:41.426406[Thread 0x00007f1e3dbf96c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-11-01 15:44:41.426414[Thread 0x00007f1e3bff26c0]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-11-01 15:44:41.426421[Thread 0x00007f1e3d7f86c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-11-01 15:44:41.426427[Thread 0x00007f1e3c7f46c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g17_19_45_69_rail_insert.3mf
+[error]	2025-11-01 15:44:41.426417[Thread 0x00007f1e3bbf16c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v010.3mf
+[warning]	2025-11-01 15:44:41.748926[Thread 0x00007f1f39fdcfc0]:03:44:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-01 15:44:41.754539[Thread 0x00007f1f39fdcfc0]:03:44:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-01 15:44:41.758074[Thread 0x00007f1f39fdcfc0]:03:44:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-01 15:44:41.800212[Thread 0x00007f1f39fdcfc0]:03:44:41 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-01 15:44:42.495422[Thread 0x00007f1f39fdcfc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-01 15:44:42.513406[Thread 0x00007f1f39fdcfc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-02 10:30:24.712926[Thread 0x00007f1f39fdcfc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-02 10:30:26.146871[Thread 0x00007f1f39fdcfc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-03 08:34:49.229135[Thread 0x00007f1f39fdcfc0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,32 @@
+[error]	2025-09-01 19:14:02.356175[Thread 0x00007f032dc0cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-01 19:14:02.360623[Thread 0x00007f02967fc6c0]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-09-01 19:14:02.360637[Thread 0x00007f02967fc6c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-09-01 19:14:02.360642[Thread 0x00007f02967fc6c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-09-01 19:14:02.360647[Thread 0x00007f02967fc6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-09-01 19:14:02.360652[Thread 0x00007f02967fc6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-09-01 19:14:02.360699[Thread 0x00007f032dc0cd80]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[error]	2025-09-01 19:14:02.360706[Thread 0x00007f032dc0cd80]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-09-01 19:14:02.360708[Thread 0x00007f032dc0cd80]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-09-01 19:14:02.360710[Thread 0x00007f032dc0cd80]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-09-01 19:14:02.360712[Thread 0x00007f032dc0cd80]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-09-01 19:14:02.360761[Thread 0x00007f02967fc6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[warning]	2025-09-01 19:14:02.696597[Thread 0x00007f032dc0cd80]:07:14:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-01 19:14:02.698695[Thread 0x00007f032dc0cd80]:07:14:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-01 19:14:02.701364[Thread 0x00007f032dc0cd80]:07:14:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-01 19:14:02.701711[Thread 0x00007f032dc0cd80]:07:14:02 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-01 19:14:03.306364[Thread 0x00007f032dc0cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-01 19:14:03.323453[Thread 0x00007f032dc0cd80]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-01 20:03:29.314593[Thread 0x00007f02b77ff6c0]:Arrange full params: {"min_obj_distance":45001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-17.500000,"bed_shrink_y":-17.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":45.000000,"clearance_height_to_lid":101.000000,"clearance_radius":45.000000,"printable_height":250.000000,
+[warning]	2025-09-01 20:03:44.899581[Thread 0x00007f02b77ff6c0]:Arrange full params: {"min_obj_distance":45001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-17.500000,"bed_shrink_y":-17.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":45.000000,"clearance_height_to_lid":101.000000,"clearance_radius":45.000000,"printable_height":250.000000,
+[error]	2025-09-01 20:03:57.119517[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:04:09.566732[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:08:22.816882[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:09:18.254418[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:09:19.072686[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:09:19.256611[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:09:25.928648[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:09:25.946178[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 20:09:25.954029[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-09-01 20:09:30.371414[Thread 0x00007f02b77ff6c0]:Arrange full params: {"min_obj_distance":45001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-17.500000,"bed_shrink_y":-17.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":45.000000,"clearance_height_to_lid":101.000000,"clearance_radius":45.000000,"printable_height":250.000000,
+[error]	2025-09-01 20:09:38.165006[Thread 0x00007f032dc0cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-01 21:09:54.746805[Thread 0x00007f032dc0cd80]:calc_exclude_triangles:Unable to create exclude triangles

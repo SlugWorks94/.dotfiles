@@ -1,0 +1,21 @@
+[error]	2025-12-22 08:57:36.580931[Thread 0x00007f69a57f16c0]:Unable to open connection to spacenavd
+[error]	2025-12-22 08:57:36.581052[Thread 0x00007f6973fff6c0]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2025-12-22 08:57:36.581064[Thread 0x00007f6973fff6c0]:Dbus Messages listening terminating.
+[error]	2025-12-22 08:57:36.874851[Thread 0x00007f6a8d509fc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-22 08:57:36.879184[Thread 0x00007f69a47ef6c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v011.3mf
+[error]	2025-12-22 08:57:36.879198[Thread 0x00007f69a47ef6c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-12-22 08:57:36.879204[Thread 0x00007f69a47ef6c0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v010.3mf
+[error]	2025-12-22 08:57:36.879261[Thread 0x00007f6a8d509fc0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g17_19_45_69_rail_insert.3mf
+[error]	2025-12-22 08:57:36.879319[Thread 0x00007f6a8d509fc0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v012.3mf
+[error]	2025-12-22 08:57:36.879328[Thread 0x00007f6a8d509fc0]:Unable to open the file/home/slug/documents/3d_modeling/py2a/py2a_g19_gen3/slicer/my_py2a_g19_gen3_v007.3mf
+[error]	2025-12-22 08:57:36.879331[Thread 0x00007f6a8d509fc0]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-12-22 08:57:36.879332[Thread 0x00007f6a8d509fc0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-12-22 08:57:36.879334[Thread 0x00007f6a8d509fc0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-12-22 08:57:36.879335[Thread 0x00007f6a8d509fc0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[warning]	2025-12-22 08:57:37.159687[Thread 0x00007f6a8d509fc0]:08:57:37 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-22 08:57:37.199869[Thread 0x00007f6a8d509fc0]:08:57:37 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-22 08:57:37.205100[Thread 0x00007f6a8d509fc0]:08:57:37 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-22 08:57:37.205962[Thread 0x00007f6a8d509fc0]:08:57:37 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-22 08:57:38.202317[Thread 0x00007f6a8d509fc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-22 08:57:38.223470[Thread 0x00007f6a8d509fc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-22 08:57:38.820955[Thread 0x00007f6a8d509fc0]:calc_exclude_triangles:Unable to create exclude triangles

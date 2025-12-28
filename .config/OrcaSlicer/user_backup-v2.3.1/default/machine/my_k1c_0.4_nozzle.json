@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Creality K1C 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "my_k1c_0.4_nozzle",
+    "print_host": "10.0.0.250",
+    "printer_settings_id": "my_k1c_0.4_nozzle",
+    "version": "2.3.0.3"
+}

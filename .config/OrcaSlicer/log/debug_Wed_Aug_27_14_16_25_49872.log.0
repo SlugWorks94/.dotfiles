@@ -1,0 +1,22 @@
+[error]	2025-08-27 14:16:27.638729[Thread 0x00007f3b13ed6d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-27 14:16:27.643113[Thread 0x00007f3aef4fc6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-08-27 14:16:27.643138[Thread 0x00007f3a807f86c0]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[error]	2025-08-27 14:16:27.643151[Thread 0x00007f3b13ed6d80]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-08-27 14:16:27.643158[Thread 0x00007f3b13ed6d80]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-08-27 14:16:27.643151[Thread 0x00007f3a807f86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-08-27 14:16:27.643161[Thread 0x00007f3b13ed6d80]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-08-27 14:16:27.643163[Thread 0x00007f3b13ed6d80]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-08-27 14:16:27.643165[Thread 0x00007f3b13ed6d80]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-08-27 14:16:27.643165[Thread 0x00007f3a807f86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-08-27 14:16:27.643170[Thread 0x00007f3a807f86c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-08-27 14:16:27.643175[Thread 0x00007f3a807f86c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/bedside_cover.3mf
+[error]	2025-08-27 14:16:27.643179[Thread 0x00007f3a807f86c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-08-27 14:16:27.643259[Thread 0x00007f3aef4fc6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[warning]	2025-08-27 14:16:27.988369[Thread 0x00007f3b13ed6d80]:02:16:27 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-27 14:16:27.991083[Thread 0x00007f3b13ed6d80]:02:16:27 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-27 14:16:27.993782[Thread 0x00007f3b13ed6d80]:02:16:27 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-27 14:16:28.009851[Thread 0x00007f3b13ed6d80]:02:16:28 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-27 14:16:28.602279[Thread 0x00007f3b13ed6d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-27 14:16:28.619634[Thread 0x00007f3b13ed6d80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-08-27 14:17:02.404886[Thread 0x00007f3b13ed6d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-27 14:18:45.286180[Thread 0x00007f3b13ed6d80]:calc_exclude_triangles:Unable to create exclude triangles

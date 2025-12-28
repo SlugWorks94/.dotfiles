@@ -1,0 +1,25 @@
+[error]	2025-08-30 19:16:16.865186[Thread 0x00007f3b02bd0d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 19:16:16.869627[Thread 0x00007f3ae47ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-08-30 19:16:16.869641[Thread 0x00007f3ae47ff6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-08-30 19:16:16.869656[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-08-30 19:16:16.869669[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[error]	2025-08-30 19:16:16.869674[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-08-30 19:16:16.869679[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-08-30 19:16:16.869683[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-08-30 19:16:16.869687[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-08-30 19:16:16.869691[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-08-30 19:16:16.869695[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-08-30 19:16:16.869700[Thread 0x00007f3a787f86c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-08-30 19:16:16.869715[Thread 0x00007f3b02bd0d80]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[warning]	2025-08-30 19:16:17.211494[Thread 0x00007f3b02bd0d80]:07:16:17 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-30 19:16:17.215795[Thread 0x00007f3b02bd0d80]:07:16:17 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-30 19:16:17.222563[Thread 0x00007f3b02bd0d80]:07:16:17 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-30 19:16:17.255890[Thread 0x00007f3b02bd0d80]:07:16:17 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-30 19:16:17.870748[Thread 0x00007f3b02bd0d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-30 19:16:17.890984[Thread 0x00007f3b02bd0d80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-08-30 19:16:26.966821[Thread 0x00007f3b02bd0d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 19:16:27.513583[Thread 0x00007f3b02bd0d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-30 19:16:27.846532[Thread 0x00007f3b02bd0d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 19:16:33.347742[Thread 0x00007f3b02bd0d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 19:16:59.992228[Thread 0x00007f3b02bd0d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-30 21:35:06.627046[Thread 0x00007f3b02bd0d80]:calc_exclude_triangles:Unable to create exclude triangles

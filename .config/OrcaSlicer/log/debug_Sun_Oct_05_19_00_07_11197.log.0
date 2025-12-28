@@ -1,0 +1,15 @@
+[error]	2025-10-05 19:00:11.538655[Thread 0x00007f271381afc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-05 19:00:11.543722[Thread 0x00007f24f4ff96c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-10-05 19:00:11.543733[Thread 0x00007f24f4ff96c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-10-05 19:00:11.543736[Thread 0x00007f24f4ff96c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-10-05 19:00:11.543738[Thread 0x00007f24f4ff96c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-10-05 19:00:11.543864[Thread 0x00007f24f4bf86c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-10-05 19:00:11.544075[Thread 0x00007f2494bf26c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-10-05 19:00:11.544085[Thread 0x00007f2494bf26c0]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[warning]	2025-10-05 19:00:11.883221[Thread 0x00007f271381afc0]:07:00:11 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-05 19:00:11.885932[Thread 0x00007f271381afc0]:07:00:11 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-05 19:00:11.887315[Thread 0x00007f271381afc0]:07:00:11 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-05 19:00:11.915484[Thread 0x00007f271381afc0]:07:00:11 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-10-05 19:00:12.668020[Thread 0x00007f271381afc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-05 19:00:12.683411[Thread 0x00007f271381afc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-05 19:58:07.588317[Thread 0x00007f271381afc0]:calc_exclude_triangles:Unable to create exclude triangles

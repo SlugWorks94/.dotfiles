@@ -1,0 +1,24 @@
+[error]	2025-09-09 17:48:20.029610[Thread 0x00007f6cc6301d80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-09 17:48:20.034091[Thread 0x00007f6c3d7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-09-09 17:48:20.034105[Thread 0x00007f6c3d7fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-09-09 17:48:20.034313[Thread 0x00007f6c1effb6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-09-09 17:48:20.034342[Thread 0x00007f6c3cbf76c0]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-09-09 17:48:20.034353[Thread 0x00007f6c3cbf76c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-09-09 17:48:20.034359[Thread 0x00007f6c3cbf76c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-09-09 17:48:20.034364[Thread 0x00007f6c3cbf76c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-09-09 17:48:20.034370[Thread 0x00007f6c3cbf76c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-09-09 17:48:20.034374[Thread 0x00007f6c3cbf76c0]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[warning]	2025-09-09 17:48:20.416219[Thread 0x00007f6cc6301d80]:05:48:20 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-09 17:48:20.420105[Thread 0x00007f6cc6301d80]:05:48:20 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-09 17:48:20.423631[Thread 0x00007f6cc6301d80]:05:48:20 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-09 17:48:20.454786[Thread 0x00007f6cc6301d80]:05:48:20 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-09 17:48:21.158187[Thread 0x00007f6cc6301d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-09 17:48:21.175249[Thread 0x00007f6cc6301d80]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-09 19:50:44.719023[Thread 0x00007f6c4f7ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":45.000000,"clearance_height_to_lid":101.000000,"clearance_radius":45.000000,"printable_height":250.000000,
+[error]	2025-09-09 19:51:00.527921[Thread 0x00007f6cc6301d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-09 19:51:08.320696[Thread 0x00007f6cc6301d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-09 19:51:39.241313[Thread 0x00007f6cc6301d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-09 19:52:03.960501[Thread 0x00007f6cc6301d80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-09 19:53:01.592818[Thread 0x00007f6cc6301d80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-09 19:53:10.060909[Thread 0x00007f6c4f7ff6c0]:Arrange full params: {"min_obj_distance":45001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":1,"bed_shrink_x":-17.500000,"bed_shrink_y":-17.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":45.000000,"clearance_height_to_lid":101.000000,"clearance_radius":45.000000,"printable_height":250.000000,
+[error]	2025-09-09 19:56:18.447825[Thread 0x00007f6cc6301d80]:calc_exclude_triangles:Unable to create exclude triangles

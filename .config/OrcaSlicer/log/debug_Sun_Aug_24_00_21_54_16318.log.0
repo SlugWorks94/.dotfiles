@@ -1,0 +1,19 @@
+[error]	2025-08-24 00:21:55.993610[Thread 0x00007f465abdcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-24 00:21:55.997936[Thread 0x00007f465abdcd80]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[error]	2025-08-24 00:21:55.997944[Thread 0x00007f465abdcd80]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-08-24 00:21:55.997946[Thread 0x00007f465abdcd80]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-08-24 00:21:55.997947[Thread 0x00007f465abdcd80]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-08-24 00:21:55.997949[Thread 0x00007f465abdcd80]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-08-24 00:21:55.998051[Thread 0x00007f45c47f86c0]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[error]	2025-08-24 00:21:55.998065[Thread 0x00007f45c47f86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-08-24 00:21:55.998070[Thread 0x00007f45c47f86c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-08-24 00:21:55.998075[Thread 0x00007f45c47f86c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-08-24 00:21:55.998079[Thread 0x00007f45c47f86c0]:Unable to open the file/home/slug/documents/3d_modeling/Silverado/Bed Stake Pocket/bedside_cover.3mf
+[error]	2025-08-24 00:21:55.998176[Thread 0x00007f459ffff6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[warning]	2025-08-24 00:21:56.337660[Thread 0x00007f465abdcd80]:12:21:56 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-24 00:21:56.339199[Thread 0x00007f465abdcd80]:12:21:56 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-24 00:21:56.345704[Thread 0x00007f465abdcd80]:12:21:56 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-24 00:21:56.365445[Thread 0x00007f465abdcd80]:12:21:56 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-24 00:21:56.987943[Thread 0x00007f465abdcd80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-24 00:21:57.005109[Thread 0x00007f465abdcd80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-08-24 00:26:19.932805[Thread 0x00007f465abdcd80]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,105 @@
+[error]	2025-08-31 14:13:32.020720[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:13:32.024737[Thread 0x00007f531c5fe6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/lca_bush.3mf
+[error]	2025-08-31 14:13:32.024750[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/bose_speaker/for_print/bosespeaker_print.3mf
+[error]	2025-08-31 14:13:32.024753[Thread 0x00007f531c5fe6c0]:Unable to open the file/home/slug/documents/3d_modeling/bug/front_beam/for_printer/beam_leaf_guide.3mf
+[error]	2025-08-31 14:13:32.024765[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/misc/milwaukee_mower_blade_shim_v1.3mf
+[error]	2025-08-31 14:13:32.024771[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/orca_files/vesa100_wallmount_slicer_v1.3mf
+[error]	2025-08-31 14:13:32.024775[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/msi monitor/exported_parts/vesa100_wallmount_v3_wall.3mf
+[error]	2025-08-31 14:13:32.024780[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/silverado/bed pocket covers/bedside_cover.3mf
+[error]	2025-08-31 14:13:32.024784[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro.3mf
+[error]	2025-08-31 14:13:32.024795[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/py2a/py2a_g19_gen3/slicer/py2a_g19_gen3_plapro_v1.3mf
+[error]	2025-08-31 14:13:32.024799[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/advanced_22mm_xyz_cube.3mf
+[error]	2025-08-31 14:13:32.024804[Thread 0x00007f53017fa6c0]:Unable to open the file/home/slug/documents/3d_modeling/calibration/22mm_xyz_cube.3mf
+[error]	2025-08-31 14:13:32.024825[Thread 0x00007f539719cd80]:Unable to open the file/home/slug/downloads/300blkFDE Filled Nylon Settings.3mf
+[warning]	2025-08-31 14:13:32.261189[Thread 0x00007f539719cd80]:02:13:32 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-31 14:13:32.262455[Thread 0x00007f539719cd80]:02:13:32 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-31 14:13:32.264347[Thread 0x00007f539719cd80]:02:13:32 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-08-31 14:13:32.275523[Thread 0x00007f539719cd80]:02:13:32 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-08-31 14:13:32.909151[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-08-31 14:13:32.925865[Thread 0x00007f539719cd80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-08-31 14:19:21.881075[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:19:22.456359[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:19:22.732007[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:19:26.855404[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:29:40.639668[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:29:43.622982[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:30:16.920030[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:41:20.056530[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:41:21.392631[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:43:02.475408[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:43:02.482741[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:43:03.005617[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:43:03.066596[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:43:03.211658[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:43:08.100411[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:44:20.317465[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:44:21.488726[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:44:32.211603[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:44:32.215619[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:44:32.767732[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:44:32.836960[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:44:32.995205[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:44:35.321666[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:45:55.163154[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:48:55.209741[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:48:55.736001[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 14:48:56.003550[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:49:10.300372[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:52:36.506617[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:52:37.382012[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 14:54:30.569086[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:11:58.211484[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:01.442494[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:02.350450[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:10.646359[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:12.892356[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:14.517178[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:17.897204[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:47.180163[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:50.356181[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:12:50.568411[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:12:51.769197[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:13:02.470614[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:13:03.904427[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:13:04.772941[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:13:05.529958[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:13:09.687584[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:13:47.813463[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:13:59.446936[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:19:22.522760[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:19:43.801709[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:19:50.543853[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:21:09.500015[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:21:14.819726[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:21:29.205757[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:21:44.479364[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:21:49.654851[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:21:58.691377[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:21:59.684275[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:22:34.622084[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:22:37.188487[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:22:52.419016[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:22:53.779160[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:23:14.170967[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:23:18.120501[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:23:54.868946[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:23:55.683841[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:24:21.789531[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:25:26.434348[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:32:07.393592[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:32:07.942572[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:32:08.224174[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:32:13.933417[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:32:14.413707[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:32:14.461705[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:32:14.621361[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:32:26.552668[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:34:15.024464[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:34:15.566101[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-08-31 15:34:15.827940[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:34:16.841539[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:34:37.073956[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:34:39.519792[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:34:40.717414[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:34:44.258525[Thread 0x00007f539719cd80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-08-31 15:47:23.015121[Thread 0x00007f539719cd80]:calc_exclude_triangles:Unable to create exclude triangles
